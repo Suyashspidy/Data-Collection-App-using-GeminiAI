@@ -1,0 +1,7 @@
+streamlit
+openpyxl
+pandas
+requests
+BeautifulSoup4
+google.generativeai
+python.dotenv
